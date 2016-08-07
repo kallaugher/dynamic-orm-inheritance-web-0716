@@ -1,3 +1,5 @@
+# read lab
+
 require_relative "./interactive_record.rb"
 
 class Song < InteractiveRecord
